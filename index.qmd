@@ -5,9 +5,9 @@ toc: false
 
 ![](/images/landing_page-01.png)
 
-**As a biologist at the Science Park of the University of Amsterdam, it’s likely that you will generate large amounts of data. The Biological Data Science Center (bioDSC) was created to help you analyse that data.**
+**As a biologist at the Science Park of the University of Amsterdam, it’s likely that you will generate large amounts of data. The Biological Data Science Center (bioDSC) was initiated to help you analyse that data.**
 
-Our aim is to enable you to perform analyses yourself, which is why we offer workshops, on-line tutorials and in-person mentoring. We have an open-door policy: we encourage you to send an email or drop by one of our desks when you want help or input with your data analysis problem. For quick questions, check out our Slack channel!
+Our aim is to enable you to perform analyses yourself, which is why we offer workshops, on-line tutorials and in-person mentoring. We have an open-door policy: we encourage you to send an email or drop by one of our desks when you need help or input with your data analysis problem. For quick questions, check out our Slack channel!
 
 [Send an email](mailto:mail@biodsc.nl){.btn .btn-primary target="_blank"}
 [Drop by](people.qmd){.btn .btn-primary}
@@ -21,7 +21,7 @@ Our core members are embedded in several research groups at the Swammerdam Insti
 
 ## Check out our online resources
 
-Check out our “Resources” section to find helpful information about coding and typical analyses that are often performed by biologists at the UvA Science Park.
+Check out our blog for quick reads on coding, which maybe inspiring for your research. Check out our tutorials for full protocols on analyses that are often performed by biologists at the UvA Science Park, such as RNA-seq.
 
 [Blog](blog.qmd){.btn .btn-primary}
 [Tutorials](tutorials.qmd){.btn .btn-primary}

@@ -25,7 +25,7 @@
     "href": "index.html",
     "title": "The Biological Data Science Center",
     "section": "",
-    "text": "As a biologist at the Science Park of the University of Amsterdam, it’s likely that you will generate large amounts of data. The Biological Data Science Center (bioDSC) was created to help you analyse that data.\nOur aim is to enable you to perform analyses yourself, which is why we offer workshops, on-line tutorials and in-person mentoring. We have an open-door policy: we encourage you to send an email or drop by one of our desks when you want help or input with your data analysis problem. For quick questions, check out our Slack channel!\nSend an email Drop by Slack"
+    "text": "As a biologist at the Science Park of the University of Amsterdam, it’s likely that you will generate large amounts of data. The Biological Data Science Center (bioDSC) was initiated to help you analyse that data.\nOur aim is to enable you to perform analyses yourself, which is why we offer workshops, on-line tutorials and in-person mentoring. We have an open-door policy: we encourage you to send an email or drop by one of our desks when you need help or input with your data analysis problem. For quick questions, check out our Slack channel!\nSend an email Drop by Slack"
   },
   {
     "objectID": "index.html#our-approach",
@@ -39,7 +39,7 @@
     "href": "index.html#check-out-our-online-resources",
     "title": "The Biological Data Science Center",
     "section": "Check out our online resources",
-    "text": "Check out our online resources\nCheck out our “Resources” section to find helpful information about coding and typical analyses that are often performed by biologists at the UvA Science Park.\nBlog Tutorials Further reading"
+    "text": "Check out our online resources\nCheck out our blog for quick reads on coding, which maybe inspiring for your research. Check out our tutorials for full protocols on analyses that are often performed by biologists at the UvA Science Park, such as RNA-seq.\nBlog Tutorials Further reading"
   },
   {
     "objectID": "index.html#check-out-our-workshops",
