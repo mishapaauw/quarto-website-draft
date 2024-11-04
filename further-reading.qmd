@@ -4,6 +4,7 @@ Here, we will provide links to other useful pages on the intersection between bi
 
 ### Bioinformatics
 
+* [Crunchomics documentation](https://crunchomics-documentation.readthedocs.io/en/latest/index.html)
 * [The IBED bioinformatics support page](https://scienceparkstudygroup.github.io/ibed-bioinformatics-page/)
 
 ### Data visualisation

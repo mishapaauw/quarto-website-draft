@@ -37,7 +37,7 @@ Email: m.m.paauw@uva.nl
 
 ## Other contributers
 
-- Anna Heintz-Buschart
-- Tijs Bliek
-- Nina Dombrowski
-- ...
+- Anna Heintz-Buschart (BDA, SILS)
+- Tijs Bliek (PDEG, SILS)
+- Nina Dombrowski (IBED)
+- Wim de Leeuw (MAD, SILS)

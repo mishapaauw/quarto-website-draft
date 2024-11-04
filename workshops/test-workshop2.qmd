@@ -1,6 +1,6 @@
 ---
 title: "25 october 2024: RNA-seq workshop"
-date: 2024-09-1
+date: 2024-10-25
 author: Misha Paauw
 description: "An RNA-seq workshop"
 categories: [past]

@@ -3,13 +3,15 @@ title: "The Biological Data Science Center"
 toc: false
 ---
 
+![](/images/landing_page-01.png)
+
 **As a biologist at the Science Park of the University of Amsterdam, it’s likely that you will generate large amounts of data. The Biological Data Science Center (bioDSC) was created to help you analyse that data.**
 
 Our aim is to enable you to perform analyses yourself, which is why we offer workshops, on-line tutorials and in-person mentoring. We have an open-door policy: we encourage you to send an email or drop by one of our desks when you want help or input with your data analysis problem. For quick questions, check out our Slack channel!
 
-[Send an email](xx){.btn .btn-primary target="_blank"}
+[Send an email](mailto:mail@biodsc.nl){.btn .btn-primary target="_blank"}
 [Drop by](people.qmd){.btn .btn-primary}
-[Slack](https://app.slack.com/client/T83S7BUFP/C01EXFVGLPL){.btn .btn-primary target="_blank"}
+[Slack](https://app.slack.com/client/T07UH6D0XL6/C07UPNUB91R){.btn .btn-primary target="_blank"}
 
 ## Our approach
 
