@@ -31,8 +31,9 @@ website:
     The bioDSC is an initiative from the University of Amsterdam ![](/images/uva-logo.png){height=25px}
 format:
   html:
-    theme: sandstone
-    css: styles.css
+    theme: 
+      - sandstone
+      - styles.css
     toc: true
 
 
