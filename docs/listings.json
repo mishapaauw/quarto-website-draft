@@ -1,0 +1,15 @@
+[
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/posts/introduction.html"
+    ]
+  },
+  {
+    "listing": "/workshops.html",
+    "items": [
+      "/workshops/test-workshop.html",
+      "/workshops/test-workshop2.html"
+    ]
+  }
+]

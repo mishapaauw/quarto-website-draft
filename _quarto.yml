@@ -3,13 +3,32 @@ project:
   output-dir: docs
 
 website:
-  title: "practice-website"
+  search:
+      location: navbar
+      type: textbox
+  title: Biological Data Science Center
   navbar:
+    logo: "images/bioDSC-logo.png"
+    background: "primary"
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-
+      - href: workshops.qmd
+        text: Workshops
+      - href: people.qmd
+        text: People
+      - href: blog.qmd
+        text: Blog
+      - href: tutorials.qmd
+        text: Tutorials
+      - href: further-reading.qmd
+        text: Further reading
+    right:
+      - text: "![](/images/uva-logo.png){height=30px}"
+        href: https://www.uva.nl
+        target: "_blank"
+  page-footer: |
+    The bioDSC is an initiative from the University of Amsterdam ![](/images/uva-logo.png){height=25px}
 format:
   html:
     theme: sandstone
