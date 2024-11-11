@@ -33,7 +33,7 @@ format:
   html:
     theme: 
       - sandstone
-      - styles.css
+      - styles.scss
     toc: true
 
 
